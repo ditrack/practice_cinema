@@ -9,3 +9,4 @@
     * Short description
     * Show time
     
+Note: Please commit your code to a new branch with name "task-1" and create a [PULL REQUEST](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) in Github after you are done.
